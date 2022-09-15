@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "esbenp.prettier-vscode",
+        "jakob101.relativepath",
+        "pkief.material-icon-theme",
+        "aaron-bond.better-comments",
+        "dzhavat.bracket-pair-toggler",
+        "TabNine.tabnine-vscode"
+    ]
+}
