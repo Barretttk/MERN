@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+.nav-bar {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  padding: 20px;
+}
